@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DormAnd Meal Plan- AW</string>
+    <string-array name="Dorms">
+        <item>"None"</item>
+        <item>"Allen Hall: $1800"</item>
+        <item>"Pike Hall: $2200"</item>
+        <item>"Farthing Hall: $2800"</item>
+        <item>"University Suites: $3000"</item>
+    </string-array>
+
+    <string-array name="Meal_Plans">
+        <item>"None"</item>
+        <item>"7 meals per Week: $600"</item>
+        <item>"14 meals per Week: $1100"</item>
+        <item>"Unlimited meals per week: $1800"</item>
+    </string-array>
+</resources>
